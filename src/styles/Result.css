@@ -1,0 +1,13 @@
+.results {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.results h4 {
+  margin: 10px auto;
+}
+
+.results p {
+  margin-bottom: 30px;
+}
