@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/next-books/static/css/main.84cb2074.chunk.css",
+    "main.js": "/next-books/static/js/main.f4c68049.chunk.js",
+    "main.js.map": "/next-books/static/js/main.f4c68049.chunk.js.map",
+    "runtime~main.js": "/next-books/static/js/runtime~main.6e941d2c.js",
+    "runtime~main.js.map": "/next-books/static/js/runtime~main.6e941d2c.js.map",
+    "static/js/2.cfca21ff.chunk.js": "/next-books/static/js/2.cfca21ff.chunk.js",
+    "static/js/2.cfca21ff.chunk.js.map": "/next-books/static/js/2.cfca21ff.chunk.js.map",
+    "index.html": "/next-books/index.html",
+    "precache-manifest.a659a850fc0573529de8f390b109d2ff.js": "/next-books/precache-manifest.a659a850fc0573529de8f390b109d2ff.js",
+    "service-worker.js": "/next-books/service-worker.js",
+    "static/css/main.84cb2074.chunk.css.map": "/next-books/static/css/main.84cb2074.chunk.css.map"
+  }
+}
