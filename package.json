@@ -12,7 +12,7 @@
     "react-scripts": "3.0.1",
     "react-test-renderer": "^16.8.6",
     "read-more-react": "^1.0.9",
-    "sinon": "^7.3.2"
+    "sinon": "^21.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
